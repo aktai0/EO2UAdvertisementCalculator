@@ -22,6 +22,7 @@ Partial Class MainWindow
    'Do not modify it using the code editor.
    <System.Diagnostics.DebuggerStepThrough()> _
    Private Sub InitializeComponent()
+      Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(MainWindow))
       Me.WardGroup1 = New AdvertisementOptimizer.WardGroup()
       Me.AboutButton = New System.Windows.Forms.Button()
       Me.SuspendLayout()
@@ -54,6 +55,7 @@ Partial Class MainWindow
       Me.Controls.Add(Me.AboutButton)
       Me.Controls.Add(Me.WardGroup1)
       Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
+      Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
       Me.MaximizeBox = False
       Me.MinimizeBox = False
       Me.Name = "MainWindow"
