@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="AboutRichTextBox.Text" xml:space="preserve">
-    <value>EO2U Advertisement Calculator
+    <value>EO2U Advertisement Calculator (version 0.8, October 10, 2015)
 Made by aktai0 (Tokenx on GameFaqs)
 
 Special thanks to First_Star for creating the advertising spreadsheet that this program uses
