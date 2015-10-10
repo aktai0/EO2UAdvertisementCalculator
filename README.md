@@ -11,6 +11,7 @@ This is a tool for Etrian Odyseey 2 Untold's Advertisement "mini-game".
 
 # Notes
 * Requires Microsoft .NET Framework v4.5. Get it from here if you don't have it: http://www.microsoft.com/en-us/download/details.aspx?id=30653
-* Uses data from First_Star's advertisement spreadsheet: https://docs.google.com/spreadsheets/d/1Bh2wEBRjhpqPpTfZA5jIclHpE1ZXHzYtUeoS7nQO4jM/
+* Special thanks to **First_Star** for creating the advertisement spreadsheet: https://docs.google.com/spreadsheets/d/1Bh2wEBRjhpqPpTfZA5jIclHpE1ZXHzYtUeoS7nQO4jM/
 * Diamond (Grimoire) groups seem to vary in population, anywhere from less than 10 to more than 25. This program estimates them at around the same population as the 4-people icon (usually an overestimation).
 * GPL License 2.0 (See LICENSE file)
+* I only tested it with Windows 8 64-bit, but it *should* work on other Windows as long as you have .NET Framework v4.5.
