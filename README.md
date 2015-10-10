@@ -15,6 +15,6 @@ This is a tool for Etrian Odyseey 2 Untold's Advertisement "mini-game".
 * Diamond (Grimoire) groups seem to vary in population, anywhere from less than 10 to more than 25. This program estimates them at around the same population as the 4-people icon (usually an overestimation).
 * GPL License 2.0 (See LICENSE file)
 * I only tested it with Windows 8 64-bit, but it *should* work on other Windows as long as you have .NET Framework v4.5.
-
+* Please post any bugs here or on the Github issues page, thanks.
 
 **This tool is fan-made and not affiliated with Atlus, Etrian Odyssey 2 Untold, or GameFaqs in any way.**
